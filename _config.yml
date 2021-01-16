@@ -1,3 +1,10 @@
+plugins:
+  - jekyll-feed
+title: The Campus BBS
+description: coding. craft beer. alt-rock music. liberty.
+author: Don Graham
+
+
 #
 # This file contains configuration flags to customize your site
 #
