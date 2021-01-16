@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 title: The Campus BBS
-description: coding. craft beer. alt-rock music. liberty.
+
 author: Don Graham
 
 
