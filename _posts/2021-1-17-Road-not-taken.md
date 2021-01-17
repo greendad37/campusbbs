@@ -2,7 +2,6 @@
 layout: post
 title: The Road Not Taken
 ---
-### The Road Not Taken
 #### By Robert Frost
 
 Two roads diverged in a yellow wood,
