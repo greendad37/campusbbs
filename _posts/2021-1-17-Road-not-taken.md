@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Road Not Taken
+Author: Robert Frost
 ---
-#### By Robert Frost
 
 Two roads diverged in a yellow wood,
 And sorry I could not travel both
